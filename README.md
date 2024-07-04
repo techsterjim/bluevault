@@ -32,8 +32,9 @@ These instructions will help you set up the project on your local machine for de
    ```
 
 3. Start the development server:
-      ```bash npm run dev
-      ```
+       ```bash
+   npm run dev
+   ```
 Open your browser and navigate to http://localhost:3000 to see the app in action.
 
 
