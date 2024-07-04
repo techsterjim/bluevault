@@ -32,7 +32,7 @@ These instructions will help you set up the project on your local machine for de
    ```
 
 3. Start the development server:
-  ```bash
+   ```bash
    npm run dev
    ```
 
