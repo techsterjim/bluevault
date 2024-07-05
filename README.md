@@ -58,8 +58,14 @@ Open your browser and navigate to http://localhost:3000 to see the app in action
 - **Local Storage**: Stores data in the browser's local storage.
 
 
-## 📝 License <a name="license"></a>
+## License
 
-This project is [MIT](LICENSE.md) licensed.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Acknowledgements
 
+- Thanks to the open-source community for their valuable resources and inspiration.
+
+## Contact
+
+For any inquiries or suggestions, feel free to contact me at [your-email@example.com](mailto:hey@codewithjames.dev).
